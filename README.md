@@ -894,33 +894,15 @@ The result is a workflow where AI assists the recruiter with information extract
 
 Demo video:
 
-**[Add demo video link here]**
+https://drive.google.com/file/d/1kVLUl1Eik6eQ5l9j83PlZfUCC2xFnQkb/view?usp=sharing
 
 Repository:
 
-**[Add GitHub repository link here]**
+https://github.com/tanveer128423/HireFlow-AI
 
 Live application:
 
-**N/A / Local demonstration**
-
----
-
-# 20. Assignment Deliverables
-
-| Deliverable                  | Status                     |
-| ---------------------------- | -------------------------- |
-| Mock resume ingestion        | Completed                  |
-| Natural-language Q&A         | Completed                  |
-| Resume-grounded responses    | Completed                  |
-| HR evaluation generation     | Completed                  |
-| Structured evaluation output | Completed                  |
-| Downloadable evaluation      | Completed                  |
-| Mock HR dispatch             | Completed                  |
-| System design documentation  | Included                   |
-| Prompt strategy              | Included                   |
-| Future improvements          | Included                   |
-| Demo video                   | Add link before submission |
+**N/A**
 
 ---
 
