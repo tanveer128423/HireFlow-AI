@@ -1,0 +1,101 @@
+{
+  "candidate": {
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "phone": "+91-9876543210",
+    "location": "Bengaluru, India"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "PES University",
+      "start": 2017,
+      "end": 2021
+    }
+  ],
+  "employment_history": [
+    {
+      "company": "CloudNova Technologies",
+      "job_title": "Software Engineer",
+      "start": "2021-07",
+      "end": "2023-08",
+      "responsibilities": [
+        "Built React dashboards for internal business operations.",
+        "Developed REST APIs using Node.js and Express.",
+        "Worked with MongoDB and PostgreSQL.",
+        "Containerized backend services using Docker.",
+        "Deployed application services using AWS.",
+        "Participated in code reviews and sprint planning."
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "company": "Independent / Freelance Projects",
+      "job_title": "Technical Product Engineer",
+      "start": "2025-09",
+      "end": "2026-06",
+      "responsibilities": [
+        "Built AI-powered web applications.",
+        "Developed frontend interfaces using React and TypeScript.",
+        "Created backend APIs using Python and FastAPI.",
+        "Experimented with LangChain and retrieval-augmented generation.",
+        "Designed product workflows based on user requirements.",
+        "Worked independently on multiple prototype applications."
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "RAG",
+        "REST APIs"
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Express",
+    "FastAPI",
+    "REST APIs",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "LangChain",
+    "RAG",
+    "Git",
+    "GitHub"
+  ],
+  "certifications": [
+    {
+      "name": "AWS Cloud Practitioner"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud Operations Dashboard",
+      "description": "A React-based dashboard for monitoring internal application services and operational metrics.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Docker", "AWS"]
+    },
+    {
+      "name": "AI Knowledge Assistant",
+      "description": "An AI-powered application that answers questions over a collection of technical documents using retrieval-augmented generation.",
+      "technologies": ["Python", "FastAPI", "LangChain", "RAG", "React"]
+    }
+  ]
+}

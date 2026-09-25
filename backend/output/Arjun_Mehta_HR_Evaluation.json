@@ -1,0 +1,41 @@
+{
+  "candidate_name": "Arjun Mehta",
+  "email": "arjun.mehta@example.com",
+  "primary_skillset": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Python",
+    "FastAPI",
+    "AWS",
+    "Docker",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  "years_of_experience": 3.0,
+  "education": "[{\"degree\": \"B.Tech in Computer Science and Engineering\", \"institution\": \"PES University\", \"start\": 2017, \"end\": 2021}]",
+  "employment_summary": "[{\"company\": \"CloudNova Technologies\", \"job_title\": \"Software Engineer\", \"start\": \"2021-07\", \"end\": \"2023-08\", \"responsibilities\": [\"Built React dashboards for internal business operations.\", \"Developed REST APIs using Node.js and Express.\", \"Worked with MongoDB and PostgreSQL.\", \"Containerized backend services using Docker.\", \"Deployed application services using AWS.\", \"Participated in code reviews and sprint planning.\"]}, {\"company\": \"Independent / Freelance Projects\", \"job_title\": \"Technical Product Engineer\", \"start\": \"2025-09\", \"end\": \"2026-06\", \"responsibilities\": [\"Built AI-powered web applications.\", \"Developed frontend interfaces using React and TypeScript.\", \"Created backend APIs using Python and FastAPI.\", \"Experimented with LangChain and retrieval-augmented generation.\", \"Designed product workflows based on user requirements.\", \"Worked independently on multiple prototype applications.\"]}]",
+  "employment_gaps": [
+    "2023-09 to 2025-08"
+  ],
+  "key_projects": [
+    "Cloud Operations Dashboard: A React-based dashboard for monitoring internal application services and operational metrics. Technologies: React, Node.js, PostgreSQL, Docker, AWS",
+    "AI Knowledge Assistant: An AI-powered application that answers questions over a collection of technical documents using retrieval-augmented generation. Technologies: Python, FastAPI, LangChain, RAG, React"
+  ],
+  "cloud_experience": "Documented experience deploying application services on AWS and containerizing services with Docker at CloudNova Technologies. Holds an AWS Cloud Practitioner certification.",
+  "technical_strengths": [
+    "Frontend development using React and TypeScript",
+    "Backend REST API development using Node.js, Express, Python, and FastAPI",
+    "Relational and non-relational database management with PostgreSQL and MongoDB",
+    "Containerization using Docker and AWS deployments",
+    "Prototyping AI applications using LangChain and RAG"
+  ],
+  "potential_concerns": [
+    "Documented employment gap: 2023-09 to 2025-08"
+  ],
+  "recommended_role": "Full Stack Software Engineer",
+  "recommendation_reason": "Inferred from documented past positions as Software Engineer and Technical Product Engineer, along with hands-on experience across frontend (React, TypeScript), backend (Node.js, FastAPI), cloud deployments (AWS, Docker), and an AWS Cloud Practitioner certification.",
+  "generated_at": "2026-09-25T09:55:32.638699+00:00",
+  "status": "completed"
+}
